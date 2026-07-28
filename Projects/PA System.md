@@ -13,8 +13,8 @@ Current direction: use the Pinto-style Obsidian vault as the real assistant stru
 
 ## Active Tasks
 
-- Create/fork GitHub repo under `sanchitnagpalofficial-create`.
-- Push the seeded local vault to GitHub.
+- GitHub repo created at `sanchitnagpalofficial-create/ott`.
+- Seeded local vault pushed to GitHub.
 - Open the vault in Obsidian.
 - Install TaskNotes and Dataview.
 - Review imported PA skills and update anything Sanchit corrects.
