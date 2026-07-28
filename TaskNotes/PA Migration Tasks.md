@@ -7,7 +7,7 @@ tags: [tasks, migration]
 
 # PA Migration Tasks
 
-- [x] Push `outputs/pinto-pa-os` to `sanchitnagpalofficial-create/ott`.
+- [x] Push the prepared PA vault to `sanchitnagpalofficial-create/ott`.
 - [x] Merge PA vault files into active Obsidian vault at `D:\0_OTT`.
 - [ ] Use `D:\0_OTT` as the Codex project for PA chats.
 - [ ] Install TaskNotes and Dataview.
