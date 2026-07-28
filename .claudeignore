@@ -1,0 +1,11 @@
+# Keep secrets and local-only transient material outside assistant context.
+.env
+.env.*
+secrets/
+credentials/
+tmp/
+temp/
+cache/
+*.key
+*.pem
+
