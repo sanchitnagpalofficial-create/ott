@@ -10,9 +10,9 @@ It keeps the reusable personal-assistant operating pattern:
 
 ## Current Setup Status
 
-Created locally in Codex at:
+Installed as the active Obsidian vault at:
 
-`C:\Users\sanch\Documents\Codex\2026-07-28\utcursh-creator-pinto-git-https-github\outputs\pinto-pa-os`
+`D:\0_OTT`
 
 This vault has been seeded with:
 
@@ -25,7 +25,7 @@ This vault has been seeded with:
 
 1. Open Obsidian.
 2. Choose `Open folder as vault`.
-3. Select the `pinto-pa-os` folder above.
+3. Select `D:\0_OTT`.
 4. When prompted, trust the vault only if you are comfortable enabling the included assistant configuration.
 
 ## Required Obsidian Plugins
