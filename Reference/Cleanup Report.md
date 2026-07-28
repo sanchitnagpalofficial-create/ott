@@ -22,7 +22,9 @@ The prepared PA repo preserves the reusable assistant logic:
 - Codex-facing root instructions through `AGENTS.md`.
 - Sanchit's PA requirements and approved OTT operating memory.
 
-## Current Remote Limitation
+## Remote Status
 
-`onetaketall-hub/PA` currently exists, but the connected GitHub tool reports pull access only and repo size `0`. GitHub write/push access must be enabled before this local state can be pushed.
+The cleaned PA vault was pushed to:
+
+`https://github.com/sanchitnagpalofficial-create/ott`
 
