@@ -19,7 +19,7 @@ This vault has been seeded with:
 - Base PA operating requirements for Sanchit Nagpal.
 - OTT / One Take Tall operating memory.
 - OTT Google Sheets workflow and task state.
-- Migration/setup tasks that still need GitHub/Obsidian completion.
+- Migration/setup tasks that still need Obsidian completion.
 
 ## Open In Obsidian
 
@@ -42,19 +42,11 @@ Install these from Obsidian Settings -> Community Plugins -> Browse:
 
 ## GitHub Status
 
-The connected GitHub account is:
+Pushed to GitHub repository:
 
-`sanchitnagpalofficial-create`
+`https://github.com/sanchitnagpalofficial-create/ott`
 
-The target repo name checked was:
-
-`sanchitnagpalofficial-create/pinto`
-
-That repo does not currently exist, and the available GitHub connector in this Codex session does not expose repository creation or fork creation. The local shell also does not have `git` or `gh` available.
-
-Once GitHub write access is available, push this vault to:
-
-`https://github.com/onetaketall-hub/PA`
+GitHub connector write access was verified through the ChatGPT Codex Connector installation for `sanchitnagpalofficial-create`.
 
 ## Main Commands
 
