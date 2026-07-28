@@ -6,6 +6,10 @@ tags: [obsidian, setup]
 
 # Obsidian Plugin Setup
 
+Active Obsidian vault path:
+
+`D:\0_OTT`
+
 Install from Settings -> Community Plugins -> Browse:
 
 | Plugin | Required | Why |
