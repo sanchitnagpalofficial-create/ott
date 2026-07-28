@@ -1,8 +1,11 @@
 [
-  "obsidian-tasknotes-plugin",
-  "dataview",
   "calendar",
+  "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-style-settings"
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-mind-map",
+  "obsidian-style-settings",
+  "obsidian-tasknotes-plugin",
+  "obsidian-tasks-plugin"
 ]
-
