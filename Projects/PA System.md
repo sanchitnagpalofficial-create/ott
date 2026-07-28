@@ -15,7 +15,8 @@ Current direction: use the Pinto-style Obsidian vault as the real assistant stru
 
 - GitHub repo created at `sanchitnagpalofficial-create/ott`.
 - Seeded local vault pushed to GitHub.
-- Open the vault in Obsidian.
+- PA vault files merged into `D:\0_OTT`.
+- Use `D:\0_OTT` as the Codex project for PA chats.
 - Install TaskNotes and Dataview.
 - Review imported PA skills and update anything Sanchit corrects.
 
