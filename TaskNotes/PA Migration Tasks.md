@@ -7,8 +7,7 @@ tags: [tasks, migration]
 
 # PA Migration Tasks
 
-- [ ] Create or fork `pinto` under `sanchitnagpalofficial-create`.
-- [ ] Push `outputs/pinto-pa-os` to GitHub once repo creation and Git access are available.
+- [x] Push `outputs/pinto-pa-os` to `sanchitnagpalofficial-create/ott`.
 - [ ] Open `outputs/pinto-pa-os` as an Obsidian vault.
 - [ ] Install TaskNotes and Dataview.
 - [ ] Enable Calendar, Excalidraw, and Style Settings if desired.
